@@ -1,0 +1,2 @@
+FAULT: NONE
+WHY: Every rule reads correctly off the day's facts — the only firing rule R4 meets both its conditions (20-day +6.5% > +5%, close +3.1% > MA50) so its ×1.2 is earned, R8 is correctly excluded at 2 up days (< 4) and R1 at +2.2% (|move| not > 3%) — and the recorded 10.5600% equals 4 × 2.2% × 1.2 with the 15% cap not binding, so the -0.3062pp loss comes from the next-day -2.9% move, not from a misjudged rule.

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Outcome Gates Are Direction Filters"
+abstract: >-
+  Under mechanically defined edit semantics the space of proposals is finite, so what a
+  result-based outcome gate can and cannot see can be counted rather than sampled. Over four
+  constructed corpora and four edit semantics, a gate that reads only the outcome admits exactly
+  those proposals whose two directions agree, and cannot distinguish a correct edit from a lucky
+  one. A closed-form argument and the enumeration agree cell by cell; that agreement is a
+  self-consistency check, not an independent validation.
+type: preprint
+authors:
+  - family-names: Long
+    given-names: Anan
+    affiliation: "Independent researcher"
+year: 2026
+license: CC-BY-4.0
+keywords:
+  - outcome gates
+  - edit semantics
+  - attribution error
+  - validation
+  - trading systems

@@ -1,0 +1,4 @@
+# The frozen artifacts in this repository must survive a clone byte for byte:
+# MANIFEST.sha256 lists sha256 over the working-tree bytes, so git must not
+# normalise line endings or encodings on the way in or out.
+* -text
