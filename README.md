@@ -66,8 +66,13 @@ current title.
 
 ## Citation
 
-If you use this work, please cite the archived record. A DOI will be added here once the archive
-is minted.
+If you use this work, please cite the archived record:
+
+> Long, Anan. *Outcome Gates Are Direction Filters*. Preprint and reproducibility artifacts,
+> v1.0.1. Zenodo, 2026. Concept DOI: [10.5281/zenodo.22945232](https://doi.org/10.5281/zenodo.22945232)
+
+The concept DOI always resolves to the latest version. This repository's `v1.0.1` release is
+archived as version DOI [10.5281/zenodo.22945233](https://doi.org/10.5281/zenodo.22945233).
 
 ## Corrections
 
